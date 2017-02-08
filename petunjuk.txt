@@ -1,0 +1,12 @@
+DATABASE : db_catering
+====================================================
+Link Login User :
+http://localhost/catering/
+username dan password : nava
+
+====================================================
+Link Login Admin :
+http://localhost/catering/admin
+
+username dan password : admin
+====================================================
